@@ -3,5 +3,4 @@ uvicorn
 redis
 pydantic
 python-dotenv
-anthropic
 httpx
