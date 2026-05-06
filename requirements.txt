@@ -3,5 +3,6 @@ uvicorn
 redis
 pydantic
 python-dotenv
-anthropic
 httpx
+python-multipart
+screenplay-pdf-to-json
